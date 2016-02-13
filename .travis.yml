@@ -12,3 +12,4 @@ script:
     - cargo build --verbose
     - cargo test --verbose
     - ls
+    - ls
